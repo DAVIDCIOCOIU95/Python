@@ -1,16 +1,33 @@
-computer_parts = ["computer",
-                  "monitor",
-                  "keyboard",
-                  "mouse",
-                  "mouse mat"
-                  ]
+# computer_parts = ["computer",
+#                   "monitor",
+#                   "keyboard",
+#                   "mouse",
+#                   "mouse mat"
+#                   ]
+#
+# for part in computer_parts:
+#     print(part)
+#
+# # access the list by index
+# print(computer_parts[2])
+#
+# # we can slice a list
+# print(computer_parts[0:3])
+# print(computer_parts[-1])
 
-for part in computer_parts:
-    print(part)
+# strings are immutable objects: see why
+myString1 = "hello"
+myCopyString = myString1
 
-# access the list by index
-print(computer_parts[2])
+print(myString1)
+print(id(myString1))
+print(myCopyString)
+print(id(myCopyString))
 
-# we can slice a list
-print(computer_parts[0:3])
-print(computer_parts[-1])
+myString1 += " world"
+print("After change")
+print(myString1)
+print(id(myString1))
+print(myCopyString)
+print(id(myCopyString))
+
