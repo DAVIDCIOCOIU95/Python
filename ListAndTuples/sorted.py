@@ -6,6 +6,8 @@
 pangram = "The quick brown fox jumps over the lazy dog"
 
 letters = sorted(pangram)
+# this will be case insensitive
+# letters = sorted(pangram, key=str.casefold)
 print(letters)
 
 # it is also possible to sort numbers
@@ -14,3 +16,10 @@ print(letters)
 numbers = [2.3, 5.6, 3.5, 6.2]
 sorted_numbers = sorted(numbers)
 print(sorted_numbers)
+
+
+# case insensitive sorting
+names = ["Graham", "John", "terry", "eric"]
+# be careful not to call the function but just to pass it as an argument to the method
+names.sort(key=str.casefold)
+print(numbers)
