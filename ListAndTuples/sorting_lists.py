@@ -3,7 +3,7 @@ odd = [1, 3, 5, 7, 9]
 
 even.extend(odd)
 print(even)
-# we need to sort even now, the sort is done in place
+# we need to sort even now, the sort is done in place, it won't return anything, for that you can use sorted(<list>)
 even.sort()
 print("Even")
 print(even)
