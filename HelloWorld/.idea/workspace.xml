@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6656a66-871b-40f5-be65-76f958e656cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gH9L0jkbMDlWU3WWE1ncdJFrcQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="helloworld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helloworld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.helloworld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6656a66-871b-40f5-be65-76f958e656cb" name="Default Changelist" comment="" />
+      <created>1597760591540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597760591540</updated>
+      <workItem from="1597760604716" duration="4336000" />
+      <workItem from="1597826265466" duration="6542000" />
+      <workItem from="1597924132256" duration="7145000" />
+      <workItem from="1597996959535" duration="109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1029" y="186" key="#Notifications" timestamp="1597761620849">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1029" y="186" key="#Notifications/0.0.1920.1050@0.0.1920.1050" timestamp="1597761620849" />
+    <state x="1407" y="212" key="#xdebugger.evaluate" timestamp="1597925585686">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1407" y="212" key="#xdebugger.evaluate/0.0.1920.1050@0.0.1920.1050" timestamp="1597925585686" />
+    <state x="397" y="272" key="FileChooserDialogImpl" timestamp="1597997047606">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="397" y="272" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1597997047606" />
+    <state width="851" height="351" key="GridCell.Tab.0.bottom" timestamp="1597947133863">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="555" height="264" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1597932029132" />
+    <state width="851" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1597947133863" />
+    <state width="851" height="351" key="GridCell.Tab.0.center" timestamp="1597947133863">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="555" height="264" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1597932029131" />
+    <state width="851" height="351" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1597947133863" />
+    <state width="851" height="351" key="GridCell.Tab.0.left" timestamp="1597947133863">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="555" height="264" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1597932029130" />
+    <state width="851" height="351" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1597947133863" />
+    <state width="851" height="351" key="GridCell.Tab.0.right" timestamp="1597947133863">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="555" height="264" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1597932029131" />
+    <state width="851" height="351" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1597947133863" />
+    <state width="851" height="351" key="GridCell.Tab.1.bottom" timestamp="1597947133864">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="851" height="351" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1597947133864" />
+    <state width="851" height="351" key="GridCell.Tab.1.center" timestamp="1597947133864">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="851" height="351" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1597947133864" />
+    <state width="851" height="351" key="GridCell.Tab.1.left" timestamp="1597947133864">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="851" height="351" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1597947133864" />
+    <state width="851" height="351" key="GridCell.Tab.1.right" timestamp="1597947133864">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="851" height="351" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1597947133864" />
+    <state x="1032" y="264" width="877" height="603" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1597925689619">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1032" y="264" width="877" height="603" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1050@0.0.1920.1050" timestamp="1597925689619" />
+    <state x="0" y="129" key="new project wizard" timestamp="1597997063637">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="0" y="129" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1597997063637" />
+    <state x="1108" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1597828754439">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1108" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1597828754439" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HelloWorld$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1597932029109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
